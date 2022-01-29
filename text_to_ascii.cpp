@@ -10,7 +10,7 @@ void convert_string_to_ascii(string ,int);
 int main() {
   // change the string to convert to ascii
   // change the numbre in the function to change the font
-  convert_string_to_ascii("saltare", 7);
+  convert_string_to_ascii("wasd", 7);
 
   return 0;
 }
