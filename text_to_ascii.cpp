@@ -74,7 +74,7 @@ void convert_string_to_ascii(string mystring, int font) {
           getline(myfile, _string);
         cout << _string;
         myfile.clear();
-		myfile.seekg(0);
+	myfile.seekg(0);
       }
       cout << endl;
     }
